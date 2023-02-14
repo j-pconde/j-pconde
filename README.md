@@ -17,10 +17,10 @@
  </div>
  
  ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+![R](https://img.shields.io/badge/-R-FFFFFF?style=flat&logo=r&logoColor=4AA4DE)&nbsp;
+![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=F29111)&nbsp;
+![Php](https://cdn-icons-png.flaticon.com/512/4248/4248443.png)&nbsp; 
 
 
 ### Studying in this moment:
