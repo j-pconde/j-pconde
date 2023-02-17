@@ -1,14 +1,17 @@
 
 # <img align="left" alt="R" width="60px" style="padding-right:10px;" src="https://static.vecteezy.com/system/resources/previews/004/206/949/original/man-cleaning-window-vector.jpg" /> Jhow Jhow         
 
-Ola meu nome é jonathan, gosto de programar para testar a teoria que vejo no livro. No meu perfil voces poderao encontrar funçoes da area de estatistica e ciencia de dados
+Olá, meu nome é Jonathan, mas as pessoas me chamam de Jhow Jhow. Eu programo para testar as teorias que aprendo nos livros e validar hipóteses. Também gosto de construir modelos de machine learning do zero 
+
+Disponível para projetos 🙂
 
 <a href = "mailto:conde.jperez@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jonathan-pc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 
+---
 
 ### 🤖 Languages and Tools
----          
+
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />          
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />          
