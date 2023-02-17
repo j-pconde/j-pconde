@@ -2,14 +2,12 @@
 # <img align="left" alt="R" width="60px" style="padding-right:10px;" src="https://static.vecteezy.com/system/resources/previews/004/206/949/original/man-cleaning-window-vector.jpg" /> Jhow Jhow         
 <img align="right" alt="estudando" width="200px" src="https://media4.giphy.com/media/3orieS6CwfSfPURf2g/giphy.gif?cid=ecf05e47da6bdws9ma3c9zkp3txct7xxgemgecjv2xax9919&rid=giphy.gif&ct=g" />
 
-
 Hello, my name is Jonathan, but people call me Jhow Jhow. I program to test the theories I learn in books and validate hypotheses. I also enjoy building machine learning models from scratch.
 
 Available for projects :)
 
 <a href = "mailto:conde.jperez@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jonathan-pc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-
 
 
 ---
