@@ -24,11 +24,4 @@ Available for projects :)
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
-<div align="center">
 
-
-![Jonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=j-pconde&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-pconde&langs_count=3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
