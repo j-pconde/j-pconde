@@ -11,7 +11,7 @@ Available for projects :)
 </a>
 
 <a href="mailto:conde.jperez@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px" alt="Gmail">
 </a>
 
 <a href="https://www.linkedin.com/in/jonathan-pc/" target="_blank">
