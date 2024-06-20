@@ -5,13 +5,10 @@ Hi! My name is Jonathan, but people call me Jhow Jhow. I program to test the the
 
 Available for projects :)
 
-<div align="center">
-    
 [![Estudos](https://img.shields.io/badge/-Estudos-%23470a00?style=for-the-badge&logo=mdbook&logoColor=white)](https://j-pconde.github.io/Estudos/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:conde.jperez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-pc/)
 
-</div>
 
 ---
 
